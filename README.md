@@ -1,4 +1,3 @@
-Terraform module which create both VPC and other resources on Alibaba Cloud.  
 terraform-alicloud-demo
 =============================================
 
